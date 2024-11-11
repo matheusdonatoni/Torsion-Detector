@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Torsion Detector</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="device_details">Device Details</string>
+    <string name="id_arg">idArg</string>
+    <string name="services_administration">Services Administration</string>
+    <string name="back_button">Back</string>
+    <string name="drawer_button">Drawer</string>
+    <string name="denied_permissions_text">
+        It is necessary that the following permissions are granted for the App to work properly:
+    </string>
+    <string name="permanently_denied_permissions_text">
+        It is necessary that the following denied permissions are granted for the App to work properly:
+    </string>
+    <string name="rationale_permissions">Consider permissions</string>
+    <string name="denied_permissions">Denied permissions</string>
+    <string name="confirm">Confirm</string>
+    <string name="ask_again">Ask again</string>
+    <string name="open_settings">Open settings</string>
+    <string name="deny">Deny</string>
+    <string name="enable">Enable</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="unknown">Unknown</string>
+    <string name="okay">Okay</string>
+    <string name="warning">Warning</string>
+    <string name="ops_something_went_wrong">Ops… something went wrong!</string>
+    <string name="device_not_found">We couldn\'t find the selected device, probably because it\'s not connected anymore.</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="service">Service</string>
+    <string name="select_a_service">Select a service</string>
+    <string name="chunk_count_characteristic">Chunk-Count characteristic</string>
+    <string name="data_characteristic">Data characteristic</string>
+    <string name="select_a_characteristic">Select a characteristic</string>
+    <string name="start_transmission">Start transmission</string>
+    <string name="stop_transmission">Stop transmission</string>
+    <string name="start_transmission_to_watch_live_data">"Start transmission to watch live data"</string>
+    <string name="selected_service">Selected service</string>
+    <string name="selected_characteristic">Selected Characteristic</string>
+    <string name="enable_bluetooth_message">Bluetooth must be turned on for the App to work properly.</string>
+    <string name="no_devices_found_message">No BLE devices found in the last scan. Ensure your device is turned on as well as it\'s Bluetooth.</string>
+    <string name="available_devices">Available devices</string>
+    <string name="bonded_devices">Bonded devices</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="information">Information</string>
+    <string name="no_connected_devices">"No BLE devices connected yet. Go to Discover devices page and connect to the desired one."</string>
+    <string name="any_mime_type">*/*</string>
+    <string name="save_locally">Save locally</string>
+</resources>
